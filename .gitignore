@@ -1,0 +1,83 @@
+# -------------------------
+# QGIS Project Files
+# -------------------------
+
+# Backup and autosave files
+*.qgs~
+*.qgz~
+*.qgs.bak
+*.qgz.bak
+*.autosave
+
+# QGIS Python console history
+.qgis2/console_history.txt
+
+# QGIS settings and user-specific configs
+.qgis2/
+.qgis/
+.qgis3/
+.qgis3.ini
+
+# Processing temporary outputs
+processing/
+processing_temp/
+.qgis3/processing/outputs/
+
+# QGIS model designer backup files
+*.model3.bak
+
+# QGIS metadata cache
+.qgis3/cache/
+.qgis/cache/
+
+# Logs
+*.log
+
+# -------------------------
+# System / OS
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Python Plugin Development
+# -------------------------
+
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local plugin deployment folder
+.qgis3/python/plugins/*
+
+# -------------------------
+# Data (Optional)
+# Uncomment if large raw data shouldn't be tracked
+# -------------------------
+
+# Raster and vector datasets (optional)
+# *.tif
+# *.tif.aux.xml
+# *.shp
+# *.shx
+# *.dbf
+# *.prj
+# *.gdb
+# *.gpkg
+# *.sqlite
+# *.csv
+
+# Large outputs
+# outputs/
+# exports/
