@@ -61,6 +61,10 @@ dist/
 # Local plugin deployment folder
 .qgis3/python/plugins/*
 
+# Temporary files
+*.gpkg-shm
+*.gpkg-wal
+
 # -------------------------
 # Data (Optional)
 # Uncomment if large raw data shouldn't be tracked
