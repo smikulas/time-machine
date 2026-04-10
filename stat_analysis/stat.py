@@ -30,9 +30,7 @@ def normalize_river_name(name):
     
     return corrections.get(name, name)
 
-# ==========================================
-# PART 0: SMART FILE DISCOVERY
-# ==========================================
+# PART 0: FILE DISCOVERY
 
 data_folder = '.' + os.sep + 'data' + os.sep
 if not os.path.exists(data_folder):
@@ -40,9 +38,9 @@ if not os.path.exists(data_folder):
     exit()
 
 legacy_names = {
-    'berney': 1727,
-    'renove': 1850,
-    'contemporain': 2015
+    'berney': 1831,
+    'renove': 1888,
+    'contemporain': 2021
 }
 
 time_periods = {}
@@ -173,8 +171,6 @@ if len(available_lake_years) > 1:
 
 print("\n=== RIVER LENGTHS BY YEAR (Meters) ===")
 if river_data:
-    # === CHANGEMENT CLÉ 2: On utilise 'Int64' (avec I majuscule) qui supporte les NaN
-    # Cela permet d'afficher les nombres entiers sans transformer les trous en 0
     clean_river_table = pivot_rivers[years].round(0).astype('Int64')
     
     # Drop unknown rivers
@@ -199,10 +195,8 @@ if river_data:
     plt.figure(figsize=(12, 7))
     
     for river in clean_river_table.index:
-        # === CHANGEMENT CLÉ 3: dropna() exclut les années sans données juste pour le graphique
         row = clean_river_table.loc[river].dropna()
         
-        # On ne dessine que si la rivière a au moins une donnée
         if not row.empty:
             plt.plot(row.index.astype(str), 
                      row.values, 
@@ -210,7 +204,7 @@ if river_data:
                      linewidth=2, 
                      label=river.title())
 
-    plt.title('Development of Individual Rivers in Lausanne (1727 - 2015)', fontsize=14, fontweight='bold')
+    plt.title('Development of Individual Rivers in Lausanne (1831 - 2021)', fontsize=14, fontweight='bold')
     plt.xlabel('Year', fontsize=12)
     plt.ylabel('Length in Open Air (meters)', fontsize=12)
     
