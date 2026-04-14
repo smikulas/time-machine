@@ -1,0 +1,4 @@
+period,year_start,year_end,tolerance_m,length_start_m,length_end_m,stable_length_from_start_m,stable_length_from_end_m,lost_length_m,new_length_m,pct_start_stable,pct_end_stable
+1831 to 1888,1831,1888,5.0,14024.27,13260.3,3614.62,3613.03,10409.65,9647.27,25.77,27.25
+1888 to 1959,1888,1959,5.0,13260.3,3958.55,2124.27,2076.88,11136.03,1881.67,16.02,52.47
+1959 to 2021,1959,2021,5.0,3958.55,4174.2,2771.97,2795.38,1186.59,1378.82,70.02,66.97
