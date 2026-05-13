@@ -1,0 +1,28 @@
+map_key,map_label,river_name,length_m,segment_count
+melotte,Melotte (1721),flon,4029.273444910692,11
+melotte,Melotte (1721),le rionzi,173.3673894702518,1
+melotte,Melotte (1721),louve,2292.5496278483292,5
+melotte,Melotte (1721),petitflon,540.3137696704503,1
+melotte,Melotte (1721),vuachere,3369.572676955445,5
+berney,Berney (1831),boveresses,764.7608757690638,1
+berney,Berney (1831),flon,5898.082647843863,18
+berney,Berney (1831),galicien,28.136454766659185,1
+berney,Berney (1831),louve,2068.630336889118,12
+berney,Berney (1831),vuachere,3313.1570195027416,6
+renove,Rénové (1888),boveresses,767.172248778569,1
+renove,Rénové (1888),flon,5491.141052197637,16
+renove,Rénové (1888),louve,1501.066701328707,5
+renove,Rénové (1888),vuachere,3371.6088104862956,5
+1937,1937,flon,1040.0835578907952,2
+1937,1937,louve,1914.212993323265,2
+1937,1937,rionzi,235.30128621268602,1
+1937,1937,vuachere,1862.8839813124694,3
+1959,1959,flon,104.49692294719131,2
+1959,1959,louve,446.1045860834369,1
+1959,1959,petitflon,9.567145487041165,1
+1959,1959,vuachere,2755.8315503877866,11
+contemporain,Contemporary (2021),flon,115.82015018010418,2
+contemporain,Contemporary (2021),le rionzi,210.4987423354096,1
+contemporain,Contemporary (2021),louve,338.87250400389706,2
+contemporain,Contemporary (2021),petitflon,685.7493302488642,1
+contemporain,Contemporary (2021),vuachere,2793.3666652178326,16

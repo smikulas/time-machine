@@ -1,0 +1,11 @@
+file,comparison_key,shown_on_map,layer_name,rows,crs,geometry_types,columns
+comp_berneyrenove_berney.gpkg,berneyrenove,berney,context,325,EPSG:2056,MultiPolygon,"class, layer, path, identifier, page, number, subclass, use, own_type, own_desc, own_share, own_col_ty, own_col_de, own_surnam, own_name, own_compl, area, geometry"
+comp_berneyrenove_renove.gpkg,berneyrenove,renove,context,647,EPSG:2056,MultiPolygon,"class, layer, geometry"
+comp_melotteberney_berney.gpkg,melotteberney,berney,context,450,EPSG:2056,MultiPolygon,"class, layer, path, identifier, page, number, subclass, use, own_type, own_desc, own_share, own_col_ty, own_col_de, own_surnam, own_name, own_compl, area, geometry"
+comp_melotteberney_melotte.gpkg,melotteberney,melotte,context,354,EPSG:2056,MultiPolygon,"class, layer, path, geometry"
+comp_renovecontemporain_contemporain_buildings.gpkg,renovecontemporain,contemporain,buildings,255,EPSG:4326,MultiPolygon,"osm_id, name, type, geometry"
+comp_renovecontemporain_contemporain_landuse.gpkg,renovecontemporain,contemporain,landuse,23,EPSG:4326,MultiPolygon,"osm_id, name, type, geometry"
+comp_renovecontemporain_contemporain_naturals.gpkg,renovecontemporain,contemporain,naturals,8,EPSG:4326,MultiPolygon,"osm_id, name, type, geometry"
+comp_renovecontemporain_contemporain_railways.gpkg,renovecontemporain,contemporain,railways,47,EPSG:4326,MultiLineString,"osm_id, name, type, geometry"
+comp_renovecontemporain_contemporain_roads.gpkg,renovecontemporain,contemporain,roads,358,EPSG:4326,MultiLineString,"osm_id, name, ref, type, oneway, bridge, maxspeed, geometry"
+comp_renovecontemporain_renove.gpkg,renovecontemporain,renove,context,2408,EPSG:2056,MultiPolygon,"class, layer, geometry"

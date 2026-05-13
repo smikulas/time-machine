@@ -1,0 +1,7 @@
+map_key,map_label,source_file,rows,crs,geometry_types,columns
+melotte,Melotte (1721),melotte_lake.gpkg,2,EPSG:2056,MultiLineString,"id, geometry"
+berney,Berney (1831),berney_lake.gpkg,1,EPSG:2056,MultiLineString,"id, geometry"
+renove,Rénové (1888),renove_lake.gpkg,1,EPSG:2056,MultiLineString,"id, geometry"
+1937,1937,1937_lake.gpkg,3,EPSG:21781,MultiLineString,"id, geometry"
+1959,1959,1959_lake.gpkg,3,EPSG:2056,MultiLineString,"id, name, Name_1, length, geometry"
+contemporain,Contemporary (2021),contemporain_lake.gpkg,1,EPSG:2056,MultiLineString,"id, length, geometry"

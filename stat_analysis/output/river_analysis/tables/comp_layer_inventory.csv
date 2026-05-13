@@ -1,0 +1,11 @@
+file,rows,crs,geometry_types,columns
+comp_berneyrenove_berney.gpkg,325,EPSG:2056,MultiPolygon,"class, layer, path, identifier, page, number, subclass, use, own_type, own_desc, own_share, own_col_ty, own_col_de, own_surnam, own_name, own_compl, area, geometry"
+comp_berneyrenove_renove.gpkg,647,EPSG:2056,MultiPolygon,"class, layer, geometry"
+comp_melotteberney_berney.gpkg,450,EPSG:2056,MultiPolygon,"class, layer, path, identifier, page, number, subclass, use, own_type, own_desc, own_share, own_col_ty, own_col_de, own_surnam, own_name, own_compl, area, geometry"
+comp_melotteberney_melotte.gpkg,354,EPSG:2056,MultiPolygon,"class, layer, path, geometry"
+comp_renovecontemporain_contemporain_buildings.gpkg,255,EPSG:4326,MultiPolygon,"osm_id, name, type, geometry"
+comp_renovecontemporain_contemporain_landuse.gpkg,23,EPSG:4326,MultiPolygon,"osm_id, name, type, geometry"
+comp_renovecontemporain_contemporain_naturals.gpkg,8,EPSG:4326,MultiPolygon,"osm_id, name, type, geometry"
+comp_renovecontemporain_contemporain_railways.gpkg,47,EPSG:4326,MultiLineString,"osm_id, name, type, geometry"
+comp_renovecontemporain_contemporain_roads.gpkg,358,EPSG:4326,MultiLineString,"osm_id, name, ref, type, oneway, bridge, maxspeed, geometry"
+comp_renovecontemporain_renove.gpkg,2408,EPSG:2056,MultiPolygon,"class, layer, geometry"

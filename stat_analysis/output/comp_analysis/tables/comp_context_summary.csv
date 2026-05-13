@@ -1,0 +1,11 @@
+file,comparison_key,shown_on_map,layer_name,shown_on_label,feature_count,total_area_m2,total_area_ha,category_column
+comp_berneyrenove_berney.gpkg,berneyrenove,berney,context,Berney (1831),325,186353.67621830374,18.63536762183038,class
+comp_berneyrenove_renove.gpkg,berneyrenove,renove,context,Rénové (1888),647,174818.372730895,17.481837273089504,class
+comp_melotteberney_berney.gpkg,melotteberney,berney,context,Berney (1831),450,363294.9535721317,36.32949535721316,class
+comp_melotteberney_melotte.gpkg,melotteberney,melotte,context,Melotte (1721),354,347952.36933847825,34.79523693384783,class
+comp_renovecontemporain_contemporain_buildings.gpkg,renovecontemporain,contemporain,buildings,Contemporary (2021),255,173888.5610997167,17.38885610997167,type
+comp_renovecontemporain_contemporain_landuse.gpkg,renovecontemporain,contemporain,landuse,Contemporary (2021),23,583084.7301049989,58.308473010499895,type
+comp_renovecontemporain_contemporain_naturals.gpkg,renovecontemporain,contemporain,naturals,Contemporary (2021),8,22871.279357091807,2.2871279357091807,type
+comp_renovecontemporain_contemporain_railways.gpkg,renovecontemporain,contemporain,railways,Contemporary (2021),47,0.0,0.0,type
+comp_renovecontemporain_contemporain_roads.gpkg,renovecontemporain,contemporain,roads,Contemporary (2021),358,0.0,0.0,type
+comp_renovecontemporain_renove.gpkg,renovecontemporain,renove,context,Rénové (1888),2408,1385428.7070551573,138.54287070551572,class
