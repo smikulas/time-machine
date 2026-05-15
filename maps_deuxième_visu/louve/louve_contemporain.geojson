@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "louve_contemporain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC::CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 10, "osm_id": 46999031, "name": "La Louve", "type": "river", "width": null, "length": 107.20556035356816 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 6.6296665, 46.5364912 ], [ 6.629952, 46.5362529 ], [ 6.6300746, 46.5361952 ], [ 6.6302567, 46.5361442 ], [ 6.6304499, 46.5360306 ], [ 6.6306189, 46.5358184 ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 13, "osm_id": 50017964, "name": "La Louve", "type": "river", "width": 2, "length": 231.61630828386677 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 6.6287703, 46.5388956 ], [ 6.6289179, 46.5386078 ], [ 6.6291199, 46.5385059 ], [ 6.6293924, 46.5383489 ], [ 6.6296809, 46.5381523 ], [ 6.6299641, 46.5381288 ], [ 6.6300463, 46.5380493 ], [ 6.6300228, 46.5379018 ], [ 6.6296066, 46.5374609 ], [ 6.6296264, 46.5373497 ] ] ] } }
+]
+}
