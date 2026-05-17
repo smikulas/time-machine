@@ -4,7 +4,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC::CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "fid": 15, "id": null, "name": "Le Flon", "Name_1": null, "length": 835.98755248199996 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 6.644890921614629, 46.535968376105785 ], [ 6.64494225164775, 46.535848330935004 ] ] ] } },
-{ "type": "Feature", "properties": { "fid": 16, "id": null, "name": "Le Flon", "Name_1": null, "length": 90.580843439000006 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 6.64494225164775, 46.535848330935004 ], [ 6.645322560299737, 46.535076904171888 ] ] ] } },
-{ "type": "Feature", "properties": { "fid": 23, "id": null, "name": "Le petit Flon", "Name_1": null, "length": 949.776733992 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 6.628838545044151, 46.53895373627244 ], [ 6.628848857096598, 46.53887503455968 ], [ 6.628853767033609, 46.538868864194235 ] ] ] } }
+{ "type": "Feature", "properties": { "fid": 16, "id": null, "name": "Le Flon", "Name_1": null, "length": 90.580843439000006 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 6.64494225164775, 46.535848330935004 ], [ 6.645322560299737, 46.535076904171888 ] ] ] } }
 ]
 }
