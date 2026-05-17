@@ -1,0 +1,7 @@
+file,map_key,map_label,rows,crs,geometry_types,columns
+melotte_rivers.gpkg,melotte,Melotte (1721),25,EPSG:2056,MultiLineString,"id, Name, Length, geometry"
+berney_rivers.gpkg,berney,Berney (1831),41,EPSG:2056,MultiLineString,"id, name, length, geometry"
+renove_river.gpkg,renove,Rénové (1888),35,EPSG:2056,MultiLineString,"id, length, name, geometry"
+1937_rivers.gpkg,1937,1937,9,EPSG:21781,MultiLineString,"id, name, length, geometry"
+1959_rivers.gpkg,1959,1959,15,EPSG:2056,MultiLineString,"id, name, Name_1, length, geometry"
+contemporain_rivers.gpkg,contemporain,Contemporary (2021),24,EPSG:4326,MultiLineString,"osm_id, name, type, width, length, geometry"
