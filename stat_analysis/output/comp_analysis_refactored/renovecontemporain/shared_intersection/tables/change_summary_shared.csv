@@ -1,0 +1,12 @@
+change_group,change_type,feature_count,total_area_m2,total_area_ha
+became road,non-built → road_network,1607,283039.3151841539,28.303931518415393
+became built,non-built → built,691,128856.6600130917,12.885666001309172
+became road,water → road_network,463,22517.987617491777,2.251798761749178
+became road,built → road_network,1354,21861.740480993354,2.1861740480993355
+became non-built,water → non-built,127,20010.64608698766,2.0010646086987665
+became non-built,built → non-built,439,15812.325552318045,1.5812325552318045
+became non-built,road_network → non-built,86,12259.562647990106,1.2259562647990105
+became built,water → built,211,12254.336114713145,1.2254336114713145
+became built,road_network → built,212,8092.857552837785,0.8092857552837784
+became water,non-built → water,4,149.3274710980754,0.014932747109807538
+became water,road_network → water,1,6.224297081506262,0.0006224297081506262
