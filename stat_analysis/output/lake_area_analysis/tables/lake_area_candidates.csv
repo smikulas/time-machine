@@ -1,0 +1,11 @@
+map_key,map_label,source_file,kind,feature_count,area_m2,area_ha,method,priority
+melotte,Melotte (1721),melotte_area_lake_polygon.shp,polygon_shp,1,1318230.3943020494,131.82303943020494,true_polygon,1
+berney,Berney (1831),berney_area_lake_polygon.shp,polygon_shp,1,1375956.3119028257,137.59563119028257,true_polygon,1
+berney,Berney (1831),berney_area_lake.gpkg,area_lake,1,0.013635608918629622,1.3635608918629623e-06,polygonized_lines,2
+berney,Berney (1831),berney_lake.gpkg,lake,1,0.013635608918629622,1.3635608918629623e-06,polygonized_lines,3
+renove,Rénové (1888),renove_area_lake_polygon.shp,polygon_shp,1,1310513.2708134155,131.05132708134155,true_polygon,1
+renove,Rénové (1888),renove_area_lake.gpkg,area_lake,1,1310513.2708134155,131.05132708134155,polygonized_lines,2
+1937,1937,1937_area_lake_polygon.shp,polygon_shp,1,1167445.4248032602,116.74454248032602,true_polygon,1
+1959,1959,1959_area_lake_polygon.shp,polygon_shp,1,1175390.550731731,117.53905507317312,true_polygon,1
+contemporain,Contemporary (2021),contemporain_area_lake_polygon.shp,polygon_shp,1,937400.874575575,93.7400874575575,true_polygon,1
+contemporain,Contemporary (2021),contemporain_area_lake.gpkg,area_lake,1,937400.874575575,93.7400874575575,polygonized_lines,2

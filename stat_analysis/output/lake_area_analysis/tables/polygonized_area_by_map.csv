@@ -1,0 +1,13 @@
+map_key,map_label,source_file,kind,line_feature_count,polygon_count,area_m2,area_ha,polygonized,method
+melotte,Melotte (1721),melotte_area_lake.gpkg,area_lake,2,0,0.0,0.0,False,polygonized_lines
+melotte,Melotte (1721),melotte_lake.gpkg,lake,2,0,0.0,0.0,False,polygonized_lines
+berney,Berney (1831),berney_area_lake.gpkg,area_lake,1,1,0.013635608918629622,1.3635608918629623e-06,True,polygonized_lines
+berney,Berney (1831),berney_lake.gpkg,lake,1,1,0.013635608918629622,1.3635608918629623e-06,True,polygonized_lines
+renove,Rénové (1888),renove_area_lake.gpkg,area_lake,1,1,1310513.2708134155,131.05132708134155,True,polygonized_lines
+renove,Rénové (1888),renove_lake.gpkg,lake,1,0,0.0,0.0,False,polygonized_lines
+1937,1937,1937_area_lake.gpkg,area_lake,3,0,0.0,0.0,False,polygonized_lines
+1937,1937,1937_lake.gpkg,lake,3,0,0.0,0.0,False,polygonized_lines
+1959,1959,1959_area_lake.gpkg,area_lake,3,0,0.0,0.0,False,polygonized_lines
+1959,1959,1959_lake.gpkg,lake,3,0,0.0,0.0,False,polygonized_lines
+contemporain,Contemporary (2021),contemporain_area_lake.gpkg,area_lake,1,1,937400.874575575,93.7400874575575,True,polygonized_lines
+contemporain,Contemporary (2021),contemporain_lake.gpkg,lake,1,0,0.0,0.0,False,polygonized_lines
